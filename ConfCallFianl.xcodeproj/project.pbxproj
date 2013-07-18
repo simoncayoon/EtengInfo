@@ -112,6 +112,7 @@
 		18C5EF371797D600008F4DE8 /* ConfCallFianl */ = {
 			isa = PBXGroup;
 			children = (
+				18F4FDBE1797DC5800ABCBA7 /* main */,
 				18C5EF401797D600008F4DE8 /* cayoonAppDelegate.h */,
 				18C5EF411797D600008F4DE8 /* cayoonAppDelegate.m */,
 				18C5EF381797D600008F4DE8 /* Supporting Files */,
@@ -150,6 +151,13 @@
 				18C5EF581797D600008F4DE8 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		18F4FDBE1797DC5800ABCBA7 /* main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = main;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -436,6 +444,7 @@
 				18C5EF621797D600008F4DE8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18C5EF631797D600008F4DE8 /* Build configuration list for PBXNativeTarget "ConfCallFianlTests" */ = {
 			isa = XCConfigurationList;
@@ -444,6 +453,7 @@
 				18C5EF651797D600008F4DE8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
